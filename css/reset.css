@@ -82,6 +82,29 @@ div img {
 	border:1px solid #aaaaaa;
 }
 
+footer {
+	position: absolute;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	background:#f3f3f3;
+	padding-top:22px;
+	border-top: 1px solid #e9e9e9;
+}
+
+footer a:link, a:visited, a:active {
+	color: #696969;
+	font-family: arial, sans-serif;
+	font-size:12px;
+	text-decoration:none;
+    }
+    
+footer a:hover {
+	text-decoration:underline;
+}
+	
+	
+	
 	
 	
 	
