@@ -40,7 +40,43 @@ div img {
 	width: 270px;
 	height: 95px;
 	margin:5px;
+	margin:5px;
 }
 
+.search {
+	width: 570px;
+	height: 28px;
+	border-top: 1px solid #bdbdbd;
+	border-bottom: 1px solid #d3d3d3;
+	border-right: 1px solid #d3d3d3;
+	border-left: 1px solid #d3d3d3;
+	padding-right: 30px;
+	font: 16px arial, sans-serif;
+	text-indent:5px;
+	background-image: url("search_icons.png");
+	background-repeat:no-repeat;
+	background-position:520px 4px;
+	background-size:45px 21px;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
