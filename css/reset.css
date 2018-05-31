@@ -71,6 +71,15 @@ div img {
 	font-weight: bold;
 	padding: 7px;
 	border-radius:2px;
+	}
+
+.button:hover {
+	color: #2a2a2a;
+	border: 1px solid #bdbdbd;
+}
+
+.search:hover {
+	border:1px solid #aaaaaa;
 }
 
 	
