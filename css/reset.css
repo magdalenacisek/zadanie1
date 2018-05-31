@@ -4,6 +4,33 @@ header {
 	right:30px;
 }
 
+header a:link, a:visited, a:active {
+    color: #252525;
+    font-family: arial, sans-serif;
+    font-size:13px;
+    text-decoration:none;
+	margin-right:6px;
+	margin-left:6px;
+	position:relative;
+	top:-7px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
