@@ -58,7 +58,21 @@ div img {
 	background-position:520px 4px;
 	background-size:45px 21px;
 	}
-	
+
+.button {
+	border: 1px solid #d3d3d3;
+	background: #f3f3f3;
+	color:#696969;
+	margin-left:4px;
+	margin-right:4px;
+	margin-top: 15px;
+	font-family: arial, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 7px;
+	border-radius:2px;
+}
+
 	
 	
 	
