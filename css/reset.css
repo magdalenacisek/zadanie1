@@ -103,6 +103,22 @@ footer a:hover {
 	text-decoration:underline;
 }
 	
+.leftlinks {
+	position: relative;
+	bottom:12px;
+	left:18px;
+	padding-right:15px;
+	padding-left:15px;
+}
+
+.rightlinks {
+	position: relative;
+	bottom:9px;
+	float:right;
+	right:18px;
+	padding-right:15px;
+	padding-left:15px;
+}
 	
 	
 	
